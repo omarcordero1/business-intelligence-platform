@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+uploaded_files/
+
+# API Keys and secrets
+secrets.toml
+.env
+*.key
+*.pem
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+database/
+
+# Docker
+.docker/

@@ -1,0 +1,13 @@
+business-intelligence-platform/
+├── src/
+│   ├── app.py                 # Aplicación principal Streamlit
+│   ├── modules/               # Módulos de la plataforma
+│   │   ├── dashboard.py       # Dashboard de métricas
+│   │   ├── sales_copilot.py   # Asistente IA de ventas
+│   │   ├── data_connectors.py # Conectores de datos
+│   │   ├── reporting.py       # Sistema de reportes
+│   │   └── alerts.py          # Sistema de alertas
+│   └── utils/                 # Utilidades
+├── docs/                      # Documentación
+├── tests/                     # Tests automatizados
+└── docker-compose.yml         # Orquestación Docker

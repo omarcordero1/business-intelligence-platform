@@ -1,0 +1,16 @@
+fecha,cliente,producto_servicio,monto_venta,vendedor,industria,estado_venta,region,costo,comision,utilidad,margen
+2024-01-15,TechSolutions SA,SaaS Enterprise,25000,Omar Cordero,Tecnología,Completado,Norte,15000,2500,10000,40.0
+2024-01-18,CloudCorp MX,Consultoría Cloud,18000,Ana López,Finanzas,En proceso,Centro,8000,1800,10000,55.6
+2024-01-22,DataDriven Inc,Implementación,35000,Carlos Ruiz,Manufactura,Completado,Norte,22000,3500,13000,37.1
+2024-02-05,InnovateLabs,Soporte Premium,12000,Omar Cordero,Tecnología,Completado,Sur,6000,1200,6000,50.0
+2024-02-12,DigitalFlow,Capacitación,8000,María García,Educación,Completado,Centro,4000,800,4000,50.0
+2024-02-25,SmartSystems,SaaS Enterprise,28000,Juan Díaz,Tecnología,Completado,Norte,16000,2800,12000,42.9
+2024-03-08,NextGen Tech,Consultoría Cloud,22000,Ana López,Finanzas,Completado,Sur,10000,2200,12000,54.5
+2024-03-15,FutureWorks,Implementación,42000,Omar Cordero,Manufactura,En proceso,Norte,25000,4200,17000,40.5
+2024-03-22,MetaSystems,Soporte Premium,15000,Carlos Ruiz,Tecnología,Completado,Centro,8000,1500,7000,46.7
+2024-04-05,AI Ventures,Capacitación,9500,María García,Tecnología,Completado,Sur,5000,950,4500,47.4
+2024-04-18,TechSolutions SA,SaaS Enterprise,30000,Omar Cordero,Tecnología,Completado,Norte,18000,3000,12000,40.0
+2024-05-02,CloudCorp MX,Implementación,38000,Ana López,Finanzas,Completado,Centro,22000,3800,16000,42.1
+2024-05-15,DataDriven Inc,Consultoría Cloud,25000,Carlos Ruiz,Manufactura,Completado,Norte,12000,2500,13000,52.0
+2024-05-28,InnovateLabs,SaaS Enterprise,32000,Juan Díaz,Tecnología,En proceso,Sur,19000,3200,13000,40.6
+2024-06-10,DigitalFlow,Soporte Premium,13000,María García,Educación,Completado,Centro,7000,1300,6000,46.2
